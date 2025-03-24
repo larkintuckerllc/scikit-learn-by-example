@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 jupyterlab = "==4.3.5"
+scikit-learn = "==1.6.1"
+pandas = "==2.2.3"
 
 [dev-packages]
 
